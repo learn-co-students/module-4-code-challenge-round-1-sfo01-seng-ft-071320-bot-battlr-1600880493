@@ -9,7 +9,7 @@ const botTypeClasses = {
   Captain: "icon star"
 };
 
-const BotSpecs = props => {
+const BotSpecs = (props) => {
   return (
     <div className="ui segment">
       <div className="ui two column centered grid">
